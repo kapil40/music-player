@@ -11,7 +11,7 @@ const initialState = {
   songs: [
     {
         id: 'p1',
-        title: 'Let me love you',
+        title: 'Let Me Love You',
         singer:'DJ SNAKE',
         isFav: false,
         search: true,
