@@ -27,8 +27,8 @@ const initialState = {
     },
     {
         id: 'p3',
-        title: 'GGMU',
-        singer: 'RED ARMY',
+        title: 'Glory Glory Man United',
+        singer: 'RED ARMY FANS',
         isFav: false,
         search: true,
         source: S3
